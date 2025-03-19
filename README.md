@@ -1,5 +1,9 @@
-This GitHub provides code to analyze scRNA sequencing data and generate figures in Xueting Peng, et al (https://xxxxxxx)
+This GitHub repository provides code for analyzing single-cell RNA sequencing (scRNA-seq) data and generating figures from the study by Xueting Peng et al. (http://xxxxxxxxxxxxxxxxxxxxxx). The corresponding outputs are available in the manuscript.
 
-Raw fastq files are available once request.
+Raw FASTQ files are available upon request.
 
-Produced by the Liu/Xia Lab, Dept. of Dermatology, the Second Affiliated Hospital of Xi'an Jiaotong University. If you have any question or request other data information, please feel free to email the corresponding authors: liuyale0703@xjtu.edu.cn or liuyale114@163.com
+This work was conducted by the Liu/Xia Lab, Department of Dermatology, The Second Affiliated Hospital of Xi'an Jiaotong University.
+
+For inquiries or requests regarding additional data, please get in touch with the corresponding authors:
+📧 liuyale0703@xjtu.edu.cn | liuyale114@163.com
+
